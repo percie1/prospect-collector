@@ -1,10 +1,10 @@
-# Lagos Prospect Collector
+# Prospect Collector
 
 A Python tool that searches Google Maps for businesses by keyword,
 scrapes their websites for publicly listed contact email addresses,
 and exports a clean CSV ready for outreach.
 
-Works for any city and any business type, not just Lagos.
+Works for any city and any business type.
 
 ## What it collects
 
