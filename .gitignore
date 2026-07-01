@@ -1,0 +1,17 @@
+# Collected data - never push this
+*.csv
+
+# API keys
+.env
+*.key
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
